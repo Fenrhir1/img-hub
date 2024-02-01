@@ -1,4 +1,4 @@
-import { NodeID } from '../declarations';
+import { NodeID } from "../declarations";
 
 export function utilityGetNode(nodeID: NodeID) {
   const node = document.getElementById(nodeID);
